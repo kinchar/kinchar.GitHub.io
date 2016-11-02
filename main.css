@@ -14,9 +14,30 @@ h1{
 a {
     color: white
 }
-H2{
+h2{
     color: white
 }
 h3{
     color: white
+}
+@media only screen and (max-width: 414px) {
+    body {
+       background-image: url("https://d3iol5bv4sfgpb.cloudfront.net/main/images/db_images/venues/venue61bground.jpg")
+    }
+h1{
+    color: aliceblue
+}
+a {
+    color: white
+}
+h2{
+    color: white
+}
+h3{
+    color: white;
+    padding:20, 20, 20, 20;
+}
+iframe{
+width: 75%;  
+}
 }
