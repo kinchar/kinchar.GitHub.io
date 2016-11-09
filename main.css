@@ -2,7 +2,7 @@ p {
     color:aqua;
 }
 body {
-    background-image: url("https://d3iol5bv4sfgpb.cloudfront.net/main/images/db_images/venues/venue61bground.jpg");
+    background-image: url("tiger.jpg");
 }
 href {
 background-color : orange
@@ -22,7 +22,7 @@ h3{
 }
 @media only screen and (max-width: 414px) {
     body {
-       background-image: url("https://d3iol5bv4sfgpb.cloudfront.net/main/images/db_images/venues/venue61bground.jpg")
+       background-image: url("tiger.jpg")
     }
 h1{
     color: aliceblue
